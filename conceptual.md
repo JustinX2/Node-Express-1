@@ -3,9 +3,9 @@
 Answer the following questions below:
 
 - What are some ways of managing asynchronous code in JavaScript?
-Callbacks: functions passed as arguments to be executed after a task is completed
-Promises: Objects representing event completion 
-Async/await: asynchronous codes to be written in a synchronous manner 
+**Callbacks: functions passed as arguments to be executed after a task is completed
+**Promises: Objects representing event completion 
+**Async/await: asynchronous codes to be written in a synchronous manner 
 
 - What is a Promise?
 Promise is an object that represents the eventual completion of an asynchronous operation 
