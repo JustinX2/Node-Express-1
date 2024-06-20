@@ -25,7 +25,7 @@ Executes synchronously</p>
 <p>Express.js: A web application built on top of node.js</p> 
 
 - What is the error-first callback pattern?
-<p>The error-firs callback pattern is used in Node.js where first argument of a callback function is an error object, and subsequent arguments are for successful executions</p> 
+<p>The error-first callback pattern is used in Node.js where first argument of a callback function is an error object, and subsequent arguments are for successful executions</p> 
 
 - What is middleware?
 <p>Middleware in Express.js is a function that has access to request object, the response object, and "next" function in request-response cycle.</p>
